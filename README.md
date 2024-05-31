@@ -123,4 +123,3 @@ The empirical results align with the theoretical expectations:
 - **QuickSort**: Shows superior performance with O(n log n) on average, validating its efficiency compared to other sorting algorithms. 
 
 The graphical and tabular comparisons provide a clear visualization of these differences, and the additional investigation into pre-sorted data effects further highlights the practical considerations of algorithm choice in real-world applications. This study reinforces the importance of understanding both theoretical and empirical performance to make informed decisions in algorithm selection. 
-` `6 ![](Aspose.Words.b8fb5fd6-8c3f-447e-bbd8-e463b6b25586.016.png)
